@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/340996223/android.cloud_firestore.iml" filepath="$PROJECT_DIR$/.idea/modules/340996223/android.cloud_firestore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1207632442/android.firebase_auth.iml" filepath="$PROJECT_DIR$/.idea/modules/1207632442/android.firebase_auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/941510257/android.firebase_core.iml" filepath="$PROJECT_DIR$/.idea/modules/941510257/android.firebase_core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1184856010/android.firebase_database.iml" filepath="$PROJECT_DIR$/.idea/modules/1184856010/android.firebase_database.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-960048354/android.firebase_storage.iml" filepath="$PROJECT_DIR$/.idea/modules/-960048354/android.firebase_storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/571885439/android.image_picker.iml" filepath="$PROJECT_DIR$/.idea/modules/571885439/android.image_picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1832777598/android.shared_preferences.iml" filepath="$PROJECT_DIR$/.idea/modules/1832777598/android.shared_preferences.iml" />
+    </modules>
+  </component>
+</project>
